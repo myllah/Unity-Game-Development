@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll a zombie mine", "Assembly-CSharp.csproj", "{2870E3D7-048D-0BF5-4FA6-BE74FA2BF8C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roll a zombie", "Assembly-CSharp.csproj", "{2870E3D7-048D-0BF5-4FA6-BE74FA2BF8C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
